@@ -9,5 +9,5 @@ if (numA % numB == 0)
 }
 else
 {
-    Console.WriteLine($"Остаток от деления числа {numA} на число {numB} = "+numA%numB);
+    Console.WriteLine($"Остаток от деления числа {numA} на число {numB} = " + numA % numB);
 }

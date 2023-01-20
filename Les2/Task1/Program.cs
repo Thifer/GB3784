@@ -3,6 +3,4 @@ Console.WriteLine(num);
 int numA = num / 10;
 int numB = num % 10;
 
-Console.WriteLine(Math.Max(numA,numB));
-
-
+Console.WriteLine(Math.Max(numA, numB));
