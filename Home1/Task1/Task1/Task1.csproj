@@ -7,4 +7,18 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="bin\Debug\net6.0\ref" />
+      <Folder Include="bin\obj\Debug\net6.0\ref" />
+      <Folder Include="bin\obj\Debug\net6.0\refint" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="bin\obj\Debug\net6.0\Task1.csproj.FileListAbsolute.txt" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Include="bin\obj\Debug\net6.0\Task1.GlobalUsings.g.cs" />
+    </ItemGroup>
+
 </Project>
