@@ -1,0 +1,15 @@
+C:\Geek\C#\Les8\Task57\bin\Debug\net6.0\Task57.exe
+C:\Geek\C#\Les8\Task57\bin\Debug\net6.0\Task57.deps.json
+C:\Geek\C#\Les8\Task57\bin\Debug\net6.0\Task57.runtimeconfig.json
+C:\Geek\C#\Les8\Task57\bin\Debug\net6.0\Task57.dll
+C:\Geek\C#\Les8\Task57\bin\Debug\net6.0\Task57.pdb
+C:\Geek\C#\Les8\Task57\obj\Debug\net6.0\Task57.csproj.AssemblyReference.cache
+C:\Geek\C#\Les8\Task57\obj\Debug\net6.0\Task57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek\C#\Les8\Task57\obj\Debug\net6.0\Task57.AssemblyInfoInputs.cache
+C:\Geek\C#\Les8\Task57\obj\Debug\net6.0\Task57.AssemblyInfo.cs
+C:\Geek\C#\Les8\Task57\obj\Debug\net6.0\Task57.csproj.CoreCompileInputs.cache
+C:\Geek\C#\Les8\Task57\obj\Debug\net6.0\Task57.dll
+C:\Geek\C#\Les8\Task57\obj\Debug\net6.0\refint\Task57.dll
+C:\Geek\C#\Les8\Task57\obj\Debug\net6.0\Task57.pdb
+C:\Geek\C#\Les8\Task57\obj\Debug\net6.0\Task57.genruntimeconfig.cache
+C:\Geek\C#\Les8\Task57\obj\Debug\net6.0\ref\Task57.dll
