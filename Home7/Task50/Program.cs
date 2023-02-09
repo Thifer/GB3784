@@ -64,6 +64,7 @@ void PrintArr(int[,] array)
     }
 }
 
+
 int m,n = 0;
 int askedNum = 6;
 int[,] arr;
