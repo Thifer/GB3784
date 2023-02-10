@@ -29,7 +29,7 @@ void PrintArr(int[,] array)
     }
 }
 
-void arraysort(int[,] array)
+void Arraysort(int[,] array)
 {
     int[] sumarr = new int[array.GetLength(0)];
     for (int i = 0; i < array.GetLength(0); i++)
@@ -63,4 +63,4 @@ n = Readint("Введите число n");
 arr = FillArr(m,n,rnd);
 PrintArr(arr);
 Console.WriteLine();
-arraysort(arr);
+Arraysort(arr);

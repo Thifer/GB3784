@@ -11,10 +11,6 @@ int[,] FillArr(int m,int n)
     int startrow = 0;
     int endrow = m-1;
     int endcol = n - 1;
-    //startrow = startj
-    //startcol = starti
-    //endrow = endj
-    //endcol = endi
     while (startcol <= endcol & startrow <= endrow)
     {
         for (int i = startcol; i <= endcol; i++,counter++)

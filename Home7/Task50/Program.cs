@@ -19,7 +19,7 @@ int[,] FillArr(int m, int n, Random random)
     return array;
 }
 
-void findbypos(int[,] array,int num)
+void Findbypos(int[,] array,int num)
 {
     int maxposvalue = array.GetLength(0) * array.GetLength(1);
     if (num > maxposvalue)
@@ -37,7 +37,7 @@ void findbypos(int[,] array,int num)
     Console.WriteLine(array[i,num-1]);
 }
 
-void findbynum(int[,] array, int num)
+void Findbynum(int[,] array, int num)
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
@@ -77,9 +77,9 @@ n = Readint("Введите число n");
 arr = FillArr(m,n,rnd);
 PrintArr(arr);
 Console.WriteLine();
-findbypos(arr,askedNum);
+Findbypos(arr,askedNum);
 Console.WriteLine();
-findbynum(arr,askedNum);
+Findbynum(arr,askedNum);
 
 
 

@@ -17,7 +17,7 @@ int[,] FillArr(int m, int n, Random random)
     return array;
 }
 
-int[,] Mularr(int[,] array1, int[,] array2)
+int[,] Multarr(int[,] array1, int[,] array2)
 {
     for (int i = 0; i < array1.GetLength(0); i++)
     {
@@ -58,4 +58,4 @@ Console.WriteLine();
 arr2 = FillArr(m,n,rnd);
 PrintArr(arr2);
 Console.WriteLine();
-PrintArr(Mularr(arr1,arr2));
+PrintArr(Multarr(arr1,arr2));
